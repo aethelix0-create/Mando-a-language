@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 42,
+    "description": "Mando'a translation Overgaul"
+  },
+  "language": {
+    "mand_sw": {
+      "name": "Mando'a",
+      "region": "Mandalore",
+      "bidirectional": false
+    }
+  }
+}
